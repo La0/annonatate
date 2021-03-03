@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Test", "purpose": "bookmarking", "created": "2021-03-03T08:04:47.289Z", "creator": {"id": "La0", "name": "Bastien Abadie"}, "modified": "2021-03-03T08:04:52.752Z"}, {"type": "TextualBody", "value": "aaa", "purpose": "tagging", "created": "2021-03-03T08:04:54.273Z", "creator": {"id": "La0", "name": "Bastien Abadie"}, "modified": "2021-03-03T08:04:54.626Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:1773.7586669921875,1027.912353515625,527.0504150390625,2021.15380859375"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/92161c36-d7c1-48eb-a36c-4f2cef759f23.json"}
